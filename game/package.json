@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "ethers": "^5.5.4",
-    "vue": "^2.6.11",
+    "ethers": "^6.0.0",
+    "vue": "^3.0.0",
     "vuex": "^3.3.0"
   },
   "devDependencies": {
